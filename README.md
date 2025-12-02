@@ -11,17 +11,17 @@ Big Tech (Amazon, Google, Meta, etc.) 技術面接対策のための練習リポ
 
 ## 習慣化のコツ
 
-### [小さく始める](https://jamesclear.com/atomic-habits-summary)
+### <a href="https://jamesclear.com/atomic-habits-summary" target="_blank">小さく始める</a>
 - 最初は1日1問、15-30分から
 - 「毎日解く」より「毎日コードを開く」を目標に
 - 朝の固定時間がおすすめ（意志力が高い）
 
-### [ロードマップに従う](https://neetcode.io/roadmap)
+### <a href="https://neetcode.io/roadmap" target="_blank">ロードマップに従う</a>
 - カテゴリ順（Arrays → Two Pointers → ...）に進める
 - Easy → Medium → Hard の順
 - 同じパターンを連続で解くと定着しやすい
 
-### [解けるようになるコツ](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
+### <a href="https://blog.algomaster.io/p/how-to-start-leetcode-in-2025" target="_blank">解けるようになるコツ</a>
 1. **15-20分で解けなければ解答を見る** - 悩みすぎは時間の無駄
 2. **解答を「理解」してから、翌日に再挑戦**
 3. **パターン認識を重視** - 「これはスライディングウィンドウだ」と分かることが目標
