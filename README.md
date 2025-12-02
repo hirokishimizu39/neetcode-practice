@@ -273,39 +273,39 @@ Big Tech (Amazon, Google, Meta, etc.) 技術面接対策のための練習リポ
 
 ## Intervals
 
-| # | Problem | Difficulty | LeetCode | CPP | PY | TS | GO | Date |
-|---|---------|------------|----------|-----|----|----|----|----- |
-| 130 | Insert Interval | Medium | [57](https://leetcode.com/problems/insert-interval/) | [ ] | [ ] | [ ] | [ ] | |
-| 131 | Merge Intervals | Medium | [56](https://leetcode.com/problems/merge-intervals/) | [ ] | [ ] | [ ] | [ ] | |
-| 132 | Non-overlapping Intervals | Medium | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [ ] | [ ] | [ ] | [ ] | |
-| 133 | Meeting Rooms | Easy | [252](https://leetcode.com/problems/meeting-rooms/) | [ ] | [ ] | [ ] | [ ] | |
-| 134 | Meeting Rooms II | Medium | [253](https://leetcode.com/problems/meeting-rooms-ii/) | [ ] | [ ] | [ ] | [ ] | |
-| 135 | Minimum Interval to Include Each Query | Hard | [1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [ ] | [ ] | [ ] | [ ] | |
+| # | Problem | Difficulty | LeetCode | NeetCode | CPP | PY | TS | GO | Date |
+|---|---------|------------|----------|----------|-----|----|----|----|----- |
+| 130 | Insert Interval | Medium | [57](https://leetcode.com/problems/insert-interval/) | [解説](https://youtu.be/A8NUOmlwOlM) | [ ] | [ ] | [ ] | [ ] | |
+| 131 | Merge Intervals | Medium | [56](https://leetcode.com/problems/merge-intervals/) | [解説](https://youtu.be/44H3cEC2fFM) | [ ] | [ ] | [ ] | [ ] | |
+| 132 | Non-overlapping Intervals | Medium | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [解説](https://youtu.be/nONCGxWoUfM) | [ ] | [ ] | [ ] | [ ] | |
+| 133 | Meeting Rooms | Easy | [252](https://leetcode.com/problems/meeting-rooms/) | [解説](https://youtu.be/PaJxqZVPhbg) | [ ] | [ ] | [ ] | [ ] | |
+| 134 | Meeting Rooms II | Medium | [253](https://leetcode.com/problems/meeting-rooms-ii/) | [解説](https://youtu.be/FdzJmTCVyJU) | [ ] | [ ] | [ ] | [ ] | |
+| 135 | Minimum Interval to Include Each Query | Hard | [1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [解説](https://youtu.be/5hQ5WWW5awQ) | [ ] | [ ] | [ ] | [ ] | |
 
 ## Math & Geometry
 
-| # | Problem | Difficulty | LeetCode | CPP | PY | TS | GO | Date |
-|---|---------|------------|----------|-----|----|----|----|----- |
-| 136 | Rotate Image | Medium | [48](https://leetcode.com/problems/rotate-image/) | [ ] | [ ] | [ ] | [ ] | |
-| 137 | Spiral Matrix | Medium | [54](https://leetcode.com/problems/spiral-matrix/) | [ ] | [ ] | [ ] | [ ] | |
-| 138 | Set Matrix Zeroes | Medium | [73](https://leetcode.com/problems/set-matrix-zeroes/) | [ ] | [ ] | [ ] | [ ] | |
-| 139 | Happy Number | Easy | [202](https://leetcode.com/problems/happy-number/) | [ ] | [ ] | [ ] | [ ] | |
-| 140 | Plus One | Easy | [66](https://leetcode.com/problems/plus-one/) | [ ] | [ ] | [ ] | [ ] | |
-| 141 | Pow(x, n) | Medium | [50](https://leetcode.com/problems/powx-n/) | [ ] | [ ] | [ ] | [ ] | |
-| 142 | Multiply Strings | Medium | [43](https://leetcode.com/problems/multiply-strings/) | [ ] | [ ] | [ ] | [ ] | |
-| 143 | Detect Squares | Medium | [2013](https://leetcode.com/problems/detect-squares/) | [ ] | [ ] | [ ] | [ ] | |
+| # | Problem | Difficulty | LeetCode | NeetCode | CPP | PY | TS | GO | Date |
+|---|---------|------------|----------|----------|-----|----|----|----|----- |
+| 136 | Rotate Image | Medium | [48](https://leetcode.com/problems/rotate-image/) | [解説](https://youtu.be/fMSJSS7eO1w) | [ ] | [ ] | [ ] | [ ] | |
+| 137 | Spiral Matrix | Medium | [54](https://leetcode.com/problems/spiral-matrix/) | [解説](https://youtu.be/BJnMZNwUk1M) | [ ] | [ ] | [ ] | [ ] | |
+| 138 | Set Matrix Zeroes | Medium | [73](https://leetcode.com/problems/set-matrix-zeroes/) | [解説](https://youtu.be/T41rL0L3Pnw) | [ ] | [ ] | [ ] | [ ] | |
+| 139 | Happy Number | Easy | [202](https://leetcode.com/problems/happy-number/) | [解説](https://youtu.be/ljz85bxOYJ0) | [ ] | [ ] | [ ] | [ ] | |
+| 140 | Plus One | Easy | [66](https://leetcode.com/problems/plus-one/) | [解説](https://youtu.be/jIaA8boiG1s) | [ ] | [ ] | [ ] | [ ] | |
+| 141 | Pow(x, n) | Medium | [50](https://leetcode.com/problems/powx-n/) | [解説](https://youtu.be/g9YQyYi4IQQ) | [ ] | [ ] | [ ] | [ ] | |
+| 142 | Multiply Strings | Medium | [43](https://leetcode.com/problems/multiply-strings/) | [解説](https://youtu.be/1vZswirL8Y8) | [ ] | [ ] | [ ] | [ ] | |
+| 143 | Detect Squares | Medium | [2013](https://leetcode.com/problems/detect-squares/) | [解説](https://youtu.be/bahebearrDc) | [ ] | [ ] | [ ] | [ ] | |
 
 ## Bit Manipulation
 
-| # | Problem | Difficulty | LeetCode | CPP | PY | TS | GO | Date |
-|---|---------|------------|----------|-----|----|----|----|----- |
-| 144 | Single Number | Easy | [136](https://leetcode.com/problems/single-number/) | [ ] | [ ] | [ ] | [ ] | |
-| 145 | Number of 1 Bits | Easy | [191](https://leetcode.com/problems/number-of-1-bits/) | [ ] | [ ] | [ ] | [ ] | |
-| 146 | Counting Bits | Easy | [338](https://leetcode.com/problems/counting-bits/) | [ ] | [ ] | [ ] | [ ] | |
-| 147 | Reverse Bits | Easy | [190](https://leetcode.com/problems/reverse-bits/) | [ ] | [ ] | [ ] | [ ] | |
-| 148 | Missing Number | Easy | [268](https://leetcode.com/problems/missing-number/) | [ ] | [ ] | [ ] | [ ] | |
-| 149 | Sum of Two Integers | Medium | [371](https://leetcode.com/problems/sum-of-two-integers/) | [ ] | [ ] | [ ] | [ ] | |
-| 150 | Reverse Integer | Medium | [7](https://leetcode.com/problems/reverse-integer/) | [ ] | [ ] | [ ] | [ ] | |
+| # | Problem | Difficulty | LeetCode | NeetCode | CPP | PY | TS | GO | Date |
+|---|---------|------------|----------|----------|-----|----|----|----|----- |
+| 144 | Single Number | Easy | [136](https://leetcode.com/problems/single-number/) | [解説](https://youtu.be/qMPX1AOa83k) | [ ] | [ ] | [ ] | [ ] | |
+| 145 | Number of 1 Bits | Easy | [191](https://leetcode.com/problems/number-of-1-bits/) | [解説](https://youtu.be/5Km3utixwZs) | [ ] | [ ] | [ ] | [ ] | |
+| 146 | Counting Bits | Easy | [338](https://leetcode.com/problems/counting-bits/) | [解説](https://youtu.be/RyBM56RIWrM) | [ ] | [ ] | [ ] | [ ] | |
+| 147 | Reverse Bits | Easy | [190](https://leetcode.com/problems/reverse-bits/) | [解説](https://youtu.be/UcoN6UjAI64) | [ ] | [ ] | [ ] | [ ] | |
+| 148 | Missing Number | Easy | [268](https://leetcode.com/problems/missing-number/) | [解説](https://youtu.be/WnPLSRLSANE) | [ ] | [ ] | [ ] | [ ] | |
+| 149 | Sum of Two Integers | Medium | [371](https://leetcode.com/problems/sum-of-two-integers/) | [解説](https://youtu.be/gVUrDV4tZfY) | [ ] | [ ] | [ ] | [ ] | |
+| 150 | Reverse Integer | Medium | [7](https://leetcode.com/problems/reverse-integer/) | [解説](https://youtu.be/HAgLH58IgJQ) | [ ] | [ ] | [ ] | [ ] | |
 
 ---
 
